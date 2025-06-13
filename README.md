@@ -74,6 +74,7 @@ ComponenteFunçãoMódulo Peltier TEC1-12706Resfriamento termoelétricoDissipado
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+
 🤝 Contribuições
 Contribuições são bem-vindas! Por favor, leia nosso guia de contribuição antes de submeter pull requests.
 
