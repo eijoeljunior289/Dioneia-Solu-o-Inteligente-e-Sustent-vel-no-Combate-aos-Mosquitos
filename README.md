@@ -1,2 +1,53 @@
+📘 Documentação Técnica – Projeto Dioneia
+1. Identificação do Projeto
+•	Nome do Projeto: Dioneia – A Solução Inteligente e Segura para o Controle de Mosquitos
+•	Versão: 1.1
+•	Data: 13/06/2025
+•	Responsável: [Seu nome ou da equipe]
+2. Resumo Executivo
+•	O projeto Dioneia é um dispositivo portátil e sustentável para o controle de mosquitos, utilizando tecnologias como resfriamento termoelétrico (módulo Peltier), energia fotovoltaica e integração com IoT. Com foco em ambientes internos e externos, busca aliar saúde, inovação e sustentabilidade ao oferecer uma alternativa eficaz ao uso de repelentes e inseticidas químicos.
+3. Objetivos
+•	- Reduzir a presença de mosquitos e o risco de doenças como dengue e zika.
+•	- Usar energia limpa por meio de uma placa fotovoltaica.
+•	- Integrar o dispositivo com IoT para coleta de dados e monitoramento remoto.
+•	- Tornar o combate aos mosquitos mais inteligente, acessível e ecológico.
+4. Público-Alvo
+•	- Famílias
+•	- Escolas e creches
+•	- Restaurantes, bares e áreas externas de lazer
+•	- Clínicas e hospitais
+•	- Instituições públicas
+5. Funcionamento do Produto
+•	Alimentação:
+•	- Powerbank 10.000mAh: alimentação em áreas internas ou noturnas.
+•	- Placa Fotovoltaica: fornece energia limpa e contínua durante o dia.
+•	Tecnologia de Atração:
+•	- Módulo Peltier: cria uma superfície fria.
+•	- LED UV (opcional): atrai visualmente os mosquitos.
+•	- Ventoinha: suga os insetos para a câmara interna de coleta.
+•	Integração com IoT:
+•	- Contador digital de capturas.
+•	- Envio de dados via Wi-Fi/Bluetooth.
+•	- Relatórios de desempenho.
+6. Componentes Utilizados
+•	Módulo Peltier TEC1-12706, Dissipador + Cooler, Placa Fotovoltaica, Powerbank 10.000mAh,
+•	Sensor de Contagem (IR/Piezo), Microcontrolador com Wi-Fi (ESP32), Estrutura acrílica/ABS, LED UV (opcional).
+7. Sustentabilidade e Segurança
+•	- Uso de energia solar limpa.
+•	- Redução de produtos químicos.
+•	- Seguro para crianças, animais e alimentos.
+8. Monitoramento e Dados
+•	- App/Dashboard: tempo de funcionamento, número de capturas, status da bateria.
+•	- Estatísticas: média de mosquitos capturados.
+•	- Alertas: manutenção ou recarga da bateria.
+9. Testes e Validações
+•	- Testes em ambientes reais.
+•	- Validação da contagem.
+•	- Testes de energia.
+•	- Testes de conectividade.
+10. Próximos Passos
+•	- Melhorar a contagem com aprendizado de máquina.
+•	- Criar app mobile.
+•	- Produção piloto em comunidades vulneráveis.
 # Dioneia-Solu-o-Inteligente-e-Sustent-vel-no-Combate-aos-Mosquitos
 Projeto de um dispositivo tecnológico portátil que utiliza energia solar, tecnologia Peltier e integração com IoT para atrair, capturar e monitorar mosquitos de forma segura, silenciosa e eficiente. Ideal para ambientes internos e externos, o sistema também gera relatórios em tempo real sobre a quantidade de insetos capturados.
